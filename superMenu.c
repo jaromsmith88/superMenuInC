@@ -17,6 +17,9 @@
  */
 #include <stdio.h>
 #include "superMenu.h"
+/*! This super function documents 
+ * One great algorithm for the ages
+ */
 // Function Definitions
 void HelloSuper()
 {
