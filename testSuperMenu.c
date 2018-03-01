@@ -1,12 +1,12 @@
 /*
  * =====================================================================================
  *
- *       Filename:  superMenu.c
+ *       Filename:  testSuperMenu.c
  *
- *    Description:  My Super Menu In C
+ *    Description: Testing Super Menu Functions 
  *
  *        Version:  1.0
- *        Created:  02/27/2018 11:45:00 AM
+ *        Created:  03/01/2018 11:51:01 AM
  *       Revision:  none
  *       Compiler:  gcc
  *
@@ -17,11 +17,13 @@
  */
 #include <stdio.h>
 #include "superMenu.h"
-// Function Definitions
-void HelloSuper()
+// Main Function
+int main()
 {
+    HelloSuper();
 
-    printf("Hello Super program in C\n");
-    return;
+    return 0;
 }
+// Function Definitions
+
 
